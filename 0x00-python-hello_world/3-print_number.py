@@ -1,4 +1,5 @@
 #!/usr/bin/python3
-name =" street"
-number= 98
-f"{number} Battery {name}"
+number=98
+name="Battery street"
+f"{number}{name}"
+
